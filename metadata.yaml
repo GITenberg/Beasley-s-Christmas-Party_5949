@@ -1,0 +1,34 @@
+_repo: Beasley-s-Christmas-Party_5949
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tarkington, Booth
+    aliases:
+    - Tarkington, Newton Booth
+    - Van Loot, Cornelius Obenchain
+    - Tarkington, B. (Booth)
+    birthdate: 1869
+    deathdate: 1946
+    gutenberg_agent_id: '169'
+    url: http://www.gutenberg.org/2009/agents/169
+    wikipedia: http://en.wikipedia.org/wiki/Booth_Tarkington
+description: Stoke the fire, grab a cup of hot cocoa, and curl up with this heartwarming
+  Christmas tale from beloved American author Booth Tarkington. Set in an unnamed
+  state in the Midwest, Beasley's Christmas Party follows the adventures of a journalist
+  who has just moved to town to join the staff of the local newspaper. Soon after
+  arriving, he becomes aware of an interesting and eccentric local character named
+  David Beasley whose political prospects are on the rise ...
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5949'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcc 'PS'
+- GITenberg
+title: Beasley's Christmas Party
+url: http://www.gutenberg.org/ebooks/5949
