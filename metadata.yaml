@@ -1,5 +1,8 @@
 _repo: Beasley-s-Christmas-Party_5949
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tarkington, Booth
@@ -18,6 +21,8 @@ description: Stoke the fire, grab a cup of hot cocoa, and curl up with this hear
   who has just moved to town to join the staff of the local newspaper. Soon after
   arriving, he becomes aware of an interesting and eccentric local character named
   David Beasley whose political prospects are on the rise ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5949#Beasley-s-Christmas-Party
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
